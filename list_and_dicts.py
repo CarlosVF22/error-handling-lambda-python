@@ -16,7 +16,7 @@ def run():
         "floating_nums": [1.1, 4.55, 6.43],
     }
 
-    for key, value in super_dict.items():  # Recorremos llaves y valores al mismo tiempo en un diccionario
+    for key, value in super_dict.items():  # We go through keys and values at the same time in a dictionary
         print(key, "-", value)
 
 if __name__ == '__main__':
