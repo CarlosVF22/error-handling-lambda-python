@@ -13,7 +13,7 @@ def write():
             f.write("\n")
 
 def run():
-    write()
+    read()
 
 if __name__ == '__main__':
     run()
